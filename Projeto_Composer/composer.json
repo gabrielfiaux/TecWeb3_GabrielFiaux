@@ -1,0 +1,18 @@
+{
+    "name": "gfiau/tec-web3_gabriel-fiaux",
+    "description": "Primeira vez usando",
+    "autoload": {
+        "psr-4": {
+            "Gfiau\\TecWeb3GabrielFiaux\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gabrielfiaux",
+            "email": "gfiauxreis@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
